@@ -1,4 +1,4 @@
-# Clone da tela de login do Instagram 🐍
+# Clone da tela de login do Instagram
 
 Este projeto consiste na replicação do layout da interface da tela de login do Instagram utilizando apenas HTML e CSS.
 
