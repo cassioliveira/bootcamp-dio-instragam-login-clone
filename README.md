@@ -1,11 +1,9 @@
-# Jogo da cobrinha 🐍
+# Clone da tela de login do Instagram 🐍
 
-Este simples jogo da cobrinha foi desenvolvido em Javascript, utilizando o elemento <strong>canvas</strong> do HTML, que permite desenhar objetos nas páginas web.
+Este projeto consiste na replicação do layout da interface da tela de login do Instagram utilizando apenas HTML e CSS.
 
 Neste projeto pude praticar alguns conceitos:
 
-- Aplicação do canvas para objetos 2D;
-- Manipular imagem na página através do objeto Image();
-- Uso de métodos da biblioteca Math;
-- Captura de eventos do teclado para interajir com os elementos na página;
-- Noçoes de movimento e posicionamento de objetos na página.
+- Estruturação de componentes no HTML;
+- Posicionamento de itens com FLEXBOX;
+- Aplicação básica de conceitos de responsividade.
